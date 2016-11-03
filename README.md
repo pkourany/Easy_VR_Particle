@@ -1,7 +1,7 @@
 EasyVR Arduino library
 ======================
 
-*Adapted for Particle devices (Core, Photon, Electron) by Paul Kourany, Nov 2/2016
+**Adapted for Particle devices (Core, Photon, Electron) by Paul Kourany, Nov 2/2016
 
 *Copyright (C) 2011-2015 RoboTech srl*
 
