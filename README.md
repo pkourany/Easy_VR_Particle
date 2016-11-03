@@ -8,9 +8,6 @@ EasyVR Arduino library
 Written for Arduino and compatible boards for use with EasyVR modules or
 EasyVR Shield boards produced by [VeeaR](http://www.veear.eu)
 
-> ![EasyVR module](extras/EasyVR_3.jpg "EasyVR module")
-> ![EasyVR Shield](extras/EasyVR_Shield_3.jpg "EasyVR Shield")
-
 On-line documentation is also available at this project
 [GitHub Pages](http://robotech-srl.github.io/EasyVR-Arduino/)
 
